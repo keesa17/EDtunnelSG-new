@@ -5,16 +5,16 @@ name = "free-sg" # todo
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[routes]]
-pattern = "free-sg.ariezvirgaun.workers.dev"
+pattern = "sparco.web.id"
 custom_domain = true
 [[routes]]
-pattern = "quiz.int.vidio.com.free-sg.ariezvirgaun.workers.dev"
+pattern = "quiz.int.vidio.com.sparco.web.id"
 custom_domain = true
 [[routes]]
-pattern = "quiz.vidio.com.free-sg.ariezvirgaun.workers.dev"
+pattern = "quiz.vidio.com.sparco.web.id"
 custom_domain = true
 [[routes]]
-pattern = "kurawa-22.co.id.free-sg.ariezvirgaun.workers.dev"
+pattern = "kurawa-22.co.id.sparco.web.id"
 custom_domain = true
 
 [vars]
@@ -24,4 +24,4 @@ custom_domain = true
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "3de0b39b-71da-4a07-8eab-81b898b574b8"
+UUID = "993c9c6c-8c88-47e1-8e98-e45cb295bdb0"
